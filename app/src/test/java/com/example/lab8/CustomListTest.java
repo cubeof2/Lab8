@@ -51,4 +51,7 @@ public class CustomListTest {
         list.deleteCity(mockCity);
         assertEquals(list.hasCity(mockCity),false);
     }
+
+    @Test
+
 }
